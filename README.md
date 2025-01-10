@@ -5,6 +5,9 @@ This repository contains a machine learning model capable of estimating a person
 
 <h2> Installation</h2>
 
+1. Clone the repository into your local machine
 ```bash
- git clone https://github.com/yourusername/yourproject.git
+ git clone https://github.com/GitGud48/Body-Fat-Percentage-Estimation
+ cd Body-Fat-Percentage-Estimation
 ```
+2. 
